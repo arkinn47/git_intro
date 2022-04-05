@@ -1,2 +1,3 @@
 Nathan Arkin
-arkinn@oregonstate.edu
+arkinn@oregonstate.edup
+blue
